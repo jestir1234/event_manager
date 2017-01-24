@@ -3,7 +3,7 @@ Project Odin Exercise: Project: Serialization and Working with Files
 
 Learning Goals
 
-###After completing this tutorial, you will be able to:
+###After completing this tutorial, I learned to:
 - manipulate file input and output
 - read content from a CSV (Comma Separated Value) file
 - transform it into a standardized format
