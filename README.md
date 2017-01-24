@@ -3,8 +3,12 @@ Project Odin Exercise: Project: Serialization and Working with Files
 
 Learning Goals
 
-###Example
- - Item 1
- - Item 2
-  - Sub Item 1
-  - Sub Item 2
+###After completing this tutorial, you will be able to:
+- manipulate file input and output
+- read content from a CSV (Comma Separated Value) file
+- transform it into a standardized format
+- utilize the data to contact a remote service
+- populate a template with user data
+- manipulate strings
+- access Sunlight’s Congressional API through the Sunlight Congress gem
+- use ERB (Embedded Ruby) for templating
